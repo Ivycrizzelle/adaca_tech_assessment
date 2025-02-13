@@ -1,0 +1,290 @@
+{
+  "cookies": [
+    {
+      "name": "utm",
+      "value": "{\"utm_product_latest\":\"N/A\",\"utm_source_latest\":\"N/A\",\"utm_medium_latest\":\"N/A\",\"utm_term_latest\":\"N/A\",\"utm_content_latest\":\"N/A\",\"utm_campaign_latest\":\"N/A\",\"utm_referrer_latest\":\"N/A\",\"utm_experiment_latest\":\"N/A\",\"utm_product\":\"N/A\",\"utm_source\":\"N/A\",\"utm_medium\":\"N/A\",\"utm_term\":\"N/A\",\"utm_content\":\"N/A\",\"utm_campaign\":\"N/A\",\"utm_referrer\":\"N/A\",\"utm_experiment\":\"N/A\"}",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1770980785,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_base",
+      "value": "eyJ1dG1fcHJvZHVjdF9sYXRlc3QiOiJOL0EiLCJ1dG1fc291cmNlX2xhdGVzdCI6Ik4vQSIsInV0bV9tZWRpdW1fbGF0ZXN0IjoiTi9BIiwidXRtX3Rlcm1fbGF0ZXN0IjoiTi9BIiwidXRtX2NvbnRlbnRfbGF0ZXN0IjoiTi9BIiwidXRtX2NhbXBhaWduX2xhdGVzdCI6Ik4vQSIsInV0bV9yZWZlcnJlcl9sYXRlc3QiOiJOL0EiLCJ1dG1fZXhwZXJpbWVudF9sYXRlc3QiOiJOL0EiLCJ1dG1fcHJvZHVjdCI6Ik4vQSIsInV0bV9zb3VyY2UiOiJOL0EiLCJ1dG1fbWVkaXVtIjoiTi9BIiwidXRtX3Rlcm0iOiJOL0EiLCJ1dG1fY29udGVudCI6Ik4vQSIsInV0bV9jYW1wYWlnbiI6Ik4vQSIsInV0bV9yZWZlcnJlciI6Ik4vQSIsInV0bV9leHBlcmltZW50IjoiTi9BIn0=",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1770980785,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_4bc4dc",
+      "value": "3aTts63L0Vye2rbmuVPCLJ...1ijvfq4fm.1ijvfq4fv.1.1.2",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1774004785.663126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1439007281.1739444786",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1739531185,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1739444845,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1739444785902.731698528584281646",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1747220785,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "2095DA6BF54864881804CFF9F48865DD",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1773140787.034609,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1740049587.034688,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPTC",
+      "value": "gF2YS8eyfBzi0rPY3zLtmZH4bZduT-7lF2XvY8siKU8",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1773140786.325414,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "b9250a1f-9db1-4d7b-a7b6-3e56098a90b3",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1747220787.341356,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&020ec00e-eab1-42ab-83e0-c5237f0f9be6\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1770980787.341474,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST08:s=V:r=V:a=V:p=V:g=3126:u=1:x=1:i=1739444785:t=1739531185:v=2:sig=AQHt08wCNv8o6h7OVwoNnkAq8wkBnynJ\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1739531186.334913,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetsid",
+      "value": "913d3030e9fa11ef8969391c24dda0df|84m1ck|2|fte|0|1870",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1739531186,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQINI2tBFx3xVQAAAZT-_RPpFqAJLUqT8j_pXZVpTpQYF42dPgzPFUgm-n4_ahWuIxwdnXuc3yWlBg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1742036786.629263,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQIs5SWpECaumwAAAZT-_RPpYrtW8zROgvIM1HljuLYOmAvcaCNIaWQnhSgqjIluXdwbvkA2RT7EzfqagTTQbA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1742036786.629323,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_zitok",
+      "value": "186652725181325909b81739444786",
+      "domain": ".www.lambdatest.com",
+      "path": "/",
+      "expires": 1770980786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_uetvid",
+      "value": "913d42e0e9fa11ef991449a256846d29|1meftqf|1739444786701|1|1|bat.bing.com/p/insights/c/n",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1773140786,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20250213110626110c153d-2272-4d67-868f-61a301776ffeAQFdwGBdQ1L7LR5jEyVk3Uhvrrht88t2\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1770980788.054831,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "Ow.povFIdY7GIMdgOuQVCmaBRJotlvOO8TMkoer7p_o-1739444787113-0.0.1.1-604800000",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.2061475035.1739444788",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1747220788,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.452667213.1739444786",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1774004788.030426,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_ETKR49VB7Y",
+      "value": "GS1.1.1739444785.1.0.1739444785.60.0.0",
+      "domain": ".lambdatest.com",
+      "path": "/",
+      "expires": 1774004788.043841,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1739445688.121543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.lambdatest.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1739444785888"
+        },
+        {
+          "name": "amplitude_unsent_4bc4dc841d6b1d6fbf95625015dd82a8",
+          "value": "[]"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Tue, 10 Mar 2026 11:06:26 GMT"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Fri, 14 Feb 2025 11:06:26 GMT"
+        },
+        {
+          "name": "_uetvid",
+          "value": "913d42e0e9fa11ef991449a256846d29|1meftqf|1739444786701|1|1|bat.bing.com/p/insights/c/n"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "amplitude_unsent_identify_4bc4dc841d6b1d6fbf95625015dd82a8",
+          "value": "[]"
+        },
+        {
+          "name": "_uetsid",
+          "value": "913d3030e9fa11ef8969391c24dda0df|84m1ck|2|fte|0|1870"
+        },
+        {
+          "name": "li_adsId",
+          "value": "765d69d5-b9ad-4c9a-bb55-491edb8e9212"
+        },
+        {
+          "name": "00DF9000000cA7z_WEB_STORAGE",
+          "value": "{}"
+        }
+      ]
+    },
+    {
+      "origin": "https://lambdatest.my.site.com",
+      "localStorage": [
+        {
+          "name": "00DF9000000cA7z_WEB_STORAGE",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}
