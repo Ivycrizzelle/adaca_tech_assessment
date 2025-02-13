@@ -11,38 +11,38 @@ Scenarios tested:
 - Validate Submit Form (https://www.lambdatest.com/selenium-playground/simple-form-demo)
 
 Directory Structure
-project/
-├── tests/
-    ├── input-form-validation.spec.ts
-    └── website-navigate.spec.ts
-├── pages/
-    ├── demo-form.page.ts
-    └── inputform.page.ts
-├── lib/
-    └── helper/
-        ├── config.ts
-        ├── util-random-text.ts
-        └── global-setup.ts
-└── playwright.config.ts
+
+    project/
+    ├── tests/
+        ├── input-form-validation.spec.ts
+        └── website-navigate.spec.ts
+    ├── pages/
+        ├── demo-form.page.ts
+        └── inputform.page.ts
+    ├── lib/
+        └── helper/
+            ├── config.ts
+            ├── util-random-text.ts
+            └── global-setup.ts
+    └── playwright.config.ts
 
 Setup Instruction:
-
 1. Clone the Repository
-git clone <repository-url>
-cd <repository-folder>
+    git clone <repository-url>
+    cd <repository-folder>
 
-2. Install Dependencies
+3. Install Dependencies
 Make sure you have Node.js installed. 
 Run the following command to install the required dependencies:
 
-npm install
-npx playwright install
-npm install @faker-js/faker
+    npm install
+    npx playwright install
+    npm install @faker-js/faker
 
 3. Run Test
 To execute the tests, use this commands:
 
-npx playwright test
+    npx playwright test
 
 Notes/Assumption
 
