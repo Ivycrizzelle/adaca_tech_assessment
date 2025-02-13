@@ -28,21 +28,22 @@ Directory Structure
 
 Setup Instruction:
 1. Clone the Repository
-    git clone <repository-url>
-    cd <repository-folder>
+
+        git clone <repository-url>
+        cd <repository-folder>
 
 3. Install Dependencies
 Make sure you have Node.js installed. 
 Run the following command to install the required dependencies:
 
-    npm install
-    npx playwright install
-    npm install @faker-js/faker
+        npm install
+        npx playwright install
+        npm install @faker-js/faker
 
 3. Run Test
 To execute the tests, use this commands:
 
-    npx playwright test
+        npx playwright test
 
 Notes/Assumption
 
